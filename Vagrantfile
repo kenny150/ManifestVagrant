@@ -64,7 +64,7 @@ Vagrant.configure("2") do |config|
    end
   
       # Define name of host ^-^
-   config.vm.define "server-xenial"
+   config.vm.define "xenial"
   #
   # View the documentation for the provider you are using for more
   # information on available options.
